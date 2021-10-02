@@ -12,3 +12,4 @@ Feel free to explore the folders in nrasam to get to know me better.
 <br>Unfortunately the video watching website repo was done for school and is not public.
 
 Links<br>
+This is more a showcase of my teaching ability rather than my working knowledge of AI or machine learning. To clarify, my part was from Intro to Implementation. https://wiki.cdot.senecacollege.ca/wiki/DPS921/PyTorch:_Convolutional_Neural_Networks
