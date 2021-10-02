@@ -11,7 +11,17 @@ You can click the Preview link to take a look at your changes.
 Feel free to explore the folders in nrasam and the links below to get to know me better.
 <br>Unfortunately the video watching website repo was done for school and is not public.
 
-<h1>Links</h1><br>
-Link to CNN Wiki page:<br>
-This is more a showcase of my teaching ability rather than my working knowledge of AI or machine learning. To clarify, my part was from Intro to Implementation. https://wiki.cdot.senecacollege.ca/wiki/DPS921/PyTorch:_Convolutional_Neural_Networks
+<h1>Links</h1>
+<h2>Writing Examples</h2>
+This is more a showcase of my teaching ability rather than my working knowledge of AI or machine learning. To clarify, my part was from Intro to Implementation.<br><br>
+Link to CNN Wiki page:<br>https://wiki.cdot.senecacollege.ca/wiki/DPS921/PyTorch:_Convolutional_Neural_Networks
 
+
+<h3>Creative Writing</h3>
+Check out my creative writing. I like to imbue my writings with a sense of humour, as you will soon see.<br><br>
+
+Link to The Most Cliche Story of All Time:<br>https://docs.google.com/document/d/1yzur8mPQ5L45ZQ9yVogt6tDRqtXoOqX2/edit?usp=sharing&ouid=107999052181048847959&rtpof=true&sd=true<br><br>
+Link to Dear Writer's Block:<br>https://docs.google.com/document/d/1BiZwK7zVcUbwVeFMVW5cW-DU1M9EF4VSz3APDMoHp9s/edit?usp=sharing
+
+<h2>P5.js</h2>
+Here's a link to a cool little game I made in P5:<br>https://editor.p5js.org/nrasam/sketches/Owxmtn8ww
