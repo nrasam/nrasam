@@ -26,7 +26,7 @@ Link to Dear Writer's Block:<br>https://docs.google.com/document/d/1BiZwK7zVcUbw
 Here's a link to a cool little game I made in P5:<br>https://editor.p5js.org/nrasam/sketches/Owxmtn8ww
 
 <h2>Videos I Made</h2>
-Here's a link to a cool music video I made. It shows rudimentary video editing ability, but more importantly it is meant to show creativity and story-telling ability.<br>
+Here's a link to a cool music video I made. It shows rudimentary video editing ability, but more importantly it is meant to show my creativity and story-telling ability.<br>
 https://amvnews.ru/index.php?go=Files&in=view&id=11672<br><br>
 
 Here's a link to a funny Kobo e-reader promotional video I made.<br>
