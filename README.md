@@ -8,8 +8,10 @@
 nrasam/nrasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Feel free to explore the folders in nrasam to get to know me better.
+Feel free to explore the folders in nrasam and the links below to get to know me better.
 <br>Unfortunately the video watching website repo was done for school and is not public.
 
-Links<br>
+<h1>Links</h1><br>
+Link to CNN Wiki page:<br>
 This is more a showcase of my teaching ability rather than my working knowledge of AI or machine learning. To clarify, my part was from Intro to Implementation. https://wiki.cdot.senecacollege.ca/wiki/DPS921/PyTorch:_Convolutional_Neural_Networks
+
