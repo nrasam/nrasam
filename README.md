@@ -8,5 +8,7 @@
 nrasam/nrasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Feel free to explore the folders & links in nrasam to get to know me better.
+Feel free to explore the folders in nrasam to get to know me better.
 <br>Unfortunately the video watching website repo was done for school and is not public.
+
+Links<br>
