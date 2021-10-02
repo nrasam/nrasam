@@ -16,7 +16,6 @@ Feel free to explore the folders in nrasam and the links below to get to know me
 This is more a showcase of my teaching ability rather than my working knowledge of AI or machine learning. To clarify, my part was from Intro to Implementation.<br><br>
 Link to CNN Wiki page:<br>https://wiki.cdot.senecacollege.ca/wiki/DPS921/PyTorch:_Convolutional_Neural_Networks
 
-
 <h3>Creative Writing</h3>
 Check out my creative writing. I like to imbue my writings with a sense of humour, as you will soon see.<br><br>
 
@@ -25,3 +24,10 @@ Link to Dear Writer's Block:<br>https://docs.google.com/document/d/1BiZwK7zVcUbw
 
 <h2>P5.js</h2>
 Here's a link to a cool little game I made in P5:<br>https://editor.p5js.org/nrasam/sketches/Owxmtn8ww
+
+<h2>Videos I Made</h2>
+Here's a link to a cool music video I made. It shows rudimentary video editing ability, but more importantly it is meant to show creativity and story-telling ability.<br>
+https://amvnews.ru/index.php?go=Files&in=view&id=11672<br><br>
+
+Here's a link to a funny Kobo e-reader promotional video I made.<br>
+https://drive.google.com/file/d/1uzqu6VeACfmc5OqPZTa3bvsY6mwAfy1X/view?usp=sharing<br><br>
