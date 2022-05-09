@@ -38,5 +38,6 @@ https://drive.google.com/file/d/1uzqu6VeACfmc5OqPZTa3bvsY6mwAfy1X/view?usp=shari
 
 <h2>Other Hobbies</h2>
 My bodybuilding notes (they're a bit of a mess): https://aeolian-saturday-0dc.notion.site/How-to-Body-Build-b64e41209a5b4edeacaf6fbea4302c18<br>
+<a href="https://aeolian-saturday-0dc.notion.site/How-to-Body-Build-b64e41209a5b4edeacaf6fbea4302c18" target="_blank">My bodybuilding notes (they're a bit of a mess)</a><br>
 A database of exercises that I keep: https://aeolian-saturday-0dc.notion.site/47b636c173394a7b8a94a57071594ec6?v=965a799c4a0a49828c85285079b007f6<br>
 My notes on nutrition (neater than my bodybuilding notes): https://aeolian-saturday-0dc.notion.site/Nutrition-and-Diet-49cb8f01076b4566b4cf48eb9ee88452<br>
