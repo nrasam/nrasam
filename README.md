@@ -14,7 +14,7 @@ Feel free to explore the folders in nrasam and the links below to get to know me
 <h1>Links</h1>
 <h2>Notable Repos<h2>
 Nutrition & Calorie Tracker: https://github.com/nrasam/make-gains
-Ionic Vocabulary Builder App: https://github.com/nrasam/vocab-builder
+<br>Vocabulary Builder Mobile App made with Ionic: https://github.com/nrasam/vocab-builder
 
 <h2>Writing Examples</h2>
 This is more a showcase of my teaching ability rather than my working knowledge of AI or machine learning. To clarify, my part was from Intro to Implementation.<br><br>
