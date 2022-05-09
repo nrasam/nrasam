@@ -12,6 +12,9 @@ Feel free to explore the folders in nrasam and the links below to get to know me
 <br>Unfortunately the video together watching website repo was done for school and is not public.
 
 <h1>Links</h1>
+<h2>Notable Repos<h2>
+  
+
 <h2>Writing Examples</h2>
 This is more a showcase of my teaching ability rather than my working knowledge of AI or machine learning. To clarify, my part was from Intro to Implementation.<br><br>
 Link to CNN Wiki page:<br>https://wiki.cdot.senecacollege.ca/wiki/DPS921/PyTorch:_Convolutional_Neural_Networks
