@@ -12,7 +12,7 @@ Feel free to explore the folders in nrasam and the links below to get to know me
 <br>Unfortunately the video together watching website repo was done for school and is not public.
 
 <h1>Links</h1>
-<h2>Notable Repos<h2>
+<h2>Notable Repos</h2>
 Nutrition & Calorie Tracker: https://github.com/nrasam/make-gains
 <br>Vocabulary Builder Mobile App made with Ionic: https://github.com/nrasam/vocab-builder
 
