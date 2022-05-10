@@ -9,7 +9,7 @@ nrasam/nrasam is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 Feel free to explore the folders in nrasam and the links below to get to know me better.
-<br>Unfortunately the video together watching website repo was done for school and is not public.
+<br>Unfortunately my capstone project where I helped to make a website where users can watch videos together was done for school and the repo is not public.
 
 <h1>Links</h1>
 <h2>Notable Repos</h2>
