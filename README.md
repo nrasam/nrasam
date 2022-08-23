@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity, web apps, and mobile apps.
 - 🌱 I’m currently learning Angular, Bash Scripting, iOS App Development, & Ionic mobile cross-platform development.
 - 💞️ I’m looking to collaborate on nothing right now.
-- 📫 You can reach me at nrasam@myseneca.ca or at (416) 576-8490.
+- 📫 You can reach me at novell.rasam@gmail.com.
 
 <!---
 nrasam/nrasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
