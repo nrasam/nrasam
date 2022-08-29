@@ -29,6 +29,9 @@ Link to Dear Writer's Block:<br>https://docs.google.com/document/d/1BiZwK7zVcUbw
 <h2>P5.js</h2>
 Here's a link to a cool little game I made in P5:<br>https://editor.p5js.org/nrasam/sketches/Owxmtn8ww
 
+<h2>3D Modeling</h2>
+I made a train in 3DS Max: https://drive.google.com/drive/folders/1oLgaxm6QDiCd2GTHoEm-NAV_dBmFapOs?usp=sharing
+
 <h2>Videos I Made</h2>
 Here's a link to a cool music video I made. It shows rudimentary video editing ability, but more importantly it is meant to show my creativity and story-telling ability.<br>
 https://amvnews.ru/index.php?go=Files&in=view&id=11672<br><br>
