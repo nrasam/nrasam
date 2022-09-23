@@ -16,6 +16,15 @@ Feel free to explore the folders in nrasam and the links below to get to know me
 Nutrition & Calorie Tracker: https://github.com/nrasam/make-gains
 <br>Vocabulary Builder Mobile App made with Ionic: https://github.com/nrasam/vocab-builder
 
+<h2>Android Studio</h2>
+Rudimentary Android App: https://github.com/nrasam/Food_Matters
+
+<h2>P5.js</h2>
+Here's a link to a cool little game I made in P5:<br>https://editor.p5js.org/nrasam/sketches/Owxmtn8ww
+
+<h2>3D Modeling</h2>
+I made a train in 3DS Max: https://drive.google.com/drive/folders/1oLgaxm6QDiCd2GTHoEm-NAV_dBmFapOs?usp=sharing
+
 <h2>Writing Examples</h2>
 This is more a showcase of my teaching ability rather than my working knowledge of AI or machine learning. To clarify, my part was from Intro to Implementation.<br><br>
 Link to CNN Wiki page:<br>https://wiki.cdot.senecacollege.ca/wiki/DPS921/PyTorch:_Convolutional_Neural_Networks
@@ -25,12 +34,6 @@ Check out my creative writing. I like to imbue my writings with a sense of humou
 
 Link to The Most Cliche Story of All Time:<br>https://docs.google.com/document/d/1yzur8mPQ5L45ZQ9yVogt6tDRqtXoOqX2/edit?usp=sharing&ouid=107999052181048847959&rtpof=true&sd=true<br><br>
 Link to Dear Writer's Block:<br>https://docs.google.com/document/d/1BiZwK7zVcUbwVeFMVW5cW-DU1M9EF4VSz3APDMoHp9s/edit?usp=sharing
-
-<h2>P5.js</h2>
-Here's a link to a cool little game I made in P5:<br>https://editor.p5js.org/nrasam/sketches/Owxmtn8ww
-
-<h2>3D Modeling</h2>
-I made a train in 3DS Max: https://drive.google.com/drive/folders/1oLgaxm6QDiCd2GTHoEm-NAV_dBmFapOs?usp=sharing
 
 <h2>Videos I Made</h2>
 Here's a link to a cool music video I made. It shows rudimentary video editing ability, but more importantly it is meant to show my creativity and story-telling ability.<br>
