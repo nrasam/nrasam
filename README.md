@@ -26,8 +26,8 @@ Here's a link to a cool little game I made in P5:<br>https://editor.p5js.org/nra
 I made a train in 3DS Max: https://drive.google.com/drive/folders/1oLgaxm6QDiCd2GTHoEm-NAV_dBmFapOs?usp=sharing
 
 <h2>Writing Examples</h2>
+Link to CNN Wiki page I helped to write:<br>https://wiki.cdot.senecacollege.ca/wiki/DPS921/PyTorch:_Convolutional_Neural_Networks <br>
 This is more a showcase of my teaching ability rather than my working knowledge of AI or machine learning. To clarify, my part was from Intro to Implementation.<br><br>
-Link to CNN Wiki page:<br>https://wiki.cdot.senecacollege.ca/wiki/DPS921/PyTorch:_Convolutional_Neural_Networks
 
 <h3>Creative Writing</h3>
 Check out my creative writing. I like to imbue my writings with a sense of humour, as you will soon see.<br><br>
